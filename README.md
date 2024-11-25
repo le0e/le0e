@@ -1,5 +1,5 @@
 ## Hi there 👋
-Below you can check out my latest data projects 
+- Below you can find repositories of my last data driven projects 💻. 
 
 <!--
 **le0e/le0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
